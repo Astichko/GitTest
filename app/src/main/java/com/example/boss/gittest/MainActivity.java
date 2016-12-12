@@ -9,6 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String FROM_DEV_BRANCH_CHANGE_MAIN_ACTIVITY = "";
+        String DEV_BRANCH_CHANGE_MAIN_ACTIVITY = "";
+        String DEV_CHANGE_LOCALLY = "";
     }
 }
