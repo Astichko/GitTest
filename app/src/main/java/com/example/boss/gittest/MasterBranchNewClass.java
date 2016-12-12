@@ -6,4 +6,5 @@ package com.example.boss.gittest;
 
 public class MasterBranchNewClass {
     //Create a new class in master branch
+    //FROM MASTER CLASS CHANGES
 }
