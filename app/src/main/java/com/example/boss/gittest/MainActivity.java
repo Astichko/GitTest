@@ -9,6 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        String MASTER_BRANCH = "";
+        String FROM_DEV_BRANCH_CHANGE_MAIN_ACTIVITY = "";
     }
 }
